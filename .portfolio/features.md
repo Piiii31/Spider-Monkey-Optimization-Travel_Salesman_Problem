@@ -1,0 +1,3 @@
+- **Spider Monkey Optimization Algorithm**: Efficiently optimizes the route for the TSP.
+- **Customizable Input**: Users can define their own set of cities and distances.
+- **Performance Visualization**: Visualize the optimization process and results through plots (if applicable).

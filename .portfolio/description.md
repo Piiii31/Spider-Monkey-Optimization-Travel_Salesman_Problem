@@ -1,0 +1,1 @@
+**The Spider Monkey Optimization** algorithm mimics the social behavior of spider monkeys to solve optimization problems effectively. In this project, we leverage this nature-inspired algorithm to address the Travel Salesman Problem, providing a competitive solution compared to traditional methods.
